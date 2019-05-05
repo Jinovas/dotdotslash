@@ -6,6 +6,7 @@ from match import dotvar, match, befvar
 import requests
 from http.cookies import SimpleCookie
 import time
+import regex as re
 
 class bcolors:
     HEADER = '\033[95m'
